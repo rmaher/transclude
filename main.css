@@ -1,0 +1,19 @@
+body {
+	background-image: url("mustardseeds.jpg");
+}
+
+h1, h5 {
+	background: white;
+	padding 2%;
+	text-align: center;
+}
+
+.opt-in {
+	background: white;
+	padding: 3%;
+	text-align: center;
+}
+
+.brand-logo {
+	background-image: url("mustard.jpeg");
+}
